@@ -1,5 +1,3 @@
-Sure, here's a sample `README.md` file for the provided code:
-
 ---
 
 # To-Do List App
